@@ -1,0 +1,97 @@
+body{ 
+  margin: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: url("../IMG/background01.jpg");
+  background-repeat: no-repeat;
+  background-size:cover;
+  justify-content: center center;
+  background-color: rgba(254, 254, 254, 0.582);
+
+}
+
+
+nav {
+  display: flex;
+  justify-content: end;
+
+  
+}
+
+nav a {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 29px;
+  text-decoration:none;
+  color:black;
+  margin-right: 23px;
+}
+
+
+
+.quem-sou-eu {
+  width: 800px;
+  margin: 50px auto 0;
+}
+
+
+.quem-sou-eu div p {
+  border-width: medium;
+  justify-content: right;
+}
+
+.quem-sou-eu div img {
+  max-width:800px;
+  max-height: 800px;
+  background-origin: content-box;
+  justify-content: center center;
+
+  
+}
+
+
+.meus-hobbies {
+  width: 800px;
+  margin: 50px auto 0;
+ 
+  
+}
+
+.meus-hobbies div p {
+  border-width: medium;
+  justify-content: right;
+}
+
+.form-contato {
+width: 800px;
+margin: 50px auto 0;
+}
+
+.form-contato {
+ 
+  max-width: 820px;
+  max-height: 620px;
+  width: auto;
+  padding: 16px 20px;
+  border: none;
+  border-radius: 4px;
+  background-color:rgb(254, 254, 254, 0.5);
+
+}
+
+.form-contato div p {
+  border-width: medium;
+  justify-content: right;
+}
+
+
+.footer {
+  margin: 5px;
+  text-justify: center;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+
+}
+
